@@ -14,6 +14,9 @@ See this video to get a very quick (3 components) method of allowing this. Whils
 (Special thanks to Michael Kurt Vogel for compiling this)  
 http://bit.ly/YouTubeVideoList-RalphBacon
 
+All about voltage doubling including Diode Pumps:  
+https://en.wikipedia.org/wiki/Voltage_multiplier
+
 ### Product Links
 
 <img src="images/Shield_Programmer.JPG" width="10%" align="left">
