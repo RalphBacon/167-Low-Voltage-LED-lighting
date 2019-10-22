@@ -47,7 +47,7 @@ https://www.banggood.com/USBASP-USBISP-AVR-Programmer-USB-ISP-USB-ASP-ATMEGA8-AT
 https://www.banggood.com/10-Pin-To-6-Pin-Adapter-Board-Connector-For-Arduino-ISP-Interface-Converter-AVR-AVRISP-USBASP-STK500-Standard-p-1413166.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897  
 
 
-Geekcreit **FT232RL FTDI USB To TTL Serial Converter** Adapter Module For Arduino, on offer at $1.99 until 1st October 2019:  
+Geekcreit **FT232RL FTDI USB To TTL Serial Converter** Adapter Module For Arduino:  
 https://www.banggood.com/FT232RL-FTDI-USB-To-TTL-Serial-Converter-Adapter-Module-For-Arduino-p-917226.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897
 
 
