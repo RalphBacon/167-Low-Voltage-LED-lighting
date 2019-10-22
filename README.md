@@ -1,4 +1,4 @@
-# 167 Low Voltage Project plus LED lighting?
+# #167 Low Voltage Project plus LED lighting?
 #### If your project runs on 1.8v how do you light an LED requiring at least 2.1 volts?
 
 ### See https://youtube.com/ralphbacon video #167
